@@ -1,0 +1,51 @@
+.promo{
+	height: 70vh;
+	background-color: #00aba9;
+	box-shadow: 0px 0px 7px;
+	background-image:
+linear-gradient(to bottom, rgba(0, 128, 128, 0.5), rgba(117, 19, 93, 0.5)),
+url("books.jpg");
+background-size: contain;
+}
+.promo h2{
+	padding-top: 150px;
+	color: white;
+	font-size: 120px;
+	text-align: center;
+}
+.description{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 77px;
+	padding-top: 77px;
+	font-family: sans-serif;
+	font-size: 24px;
+}
+.description h2{
+	font-weight: bold;
+}
+.nav-link{
+	color: 	black!important;
+}
+.navbar-brand{
+	color: 	black!important;
+}
+.dropdown-item{
+	color: 	black!important;
+}
+.footer{
+	height: 10vh;
+	background-color: #242322;
+	font-family: sans-serif;
+}
+.footer h3{
+	padding-top: 27px;
+	color: white;
+	text-align: center;
+	font-size: 17px;
+}
+.btn-dark{
+	background-color: white!important;
+	color: #242332!important;
+}
+
