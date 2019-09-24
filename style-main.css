@@ -72,3 +72,11 @@ hr{
 	width: 277px;
 	background-color: black;
 }
+img{
+	height: 200px;
+	width: 200px;
+}
+.btn-about{
+	text-decoration: none;
+	color: black;
+}

@@ -1,0 +1,32 @@
+.img1 img{
+	padding-left: 80px;
+	height: 300px;
+	width: 350px;
+	border-width: 50px;
+	border-color: cyan;
+}
+h1, h2, h3 {
+	text-align: right;
+	padding-right: 700px;
+	padding-bottom: 20px;
+	text-shadow: 1px 1px 1px #4e021b;
+	font-family: nasalization;
+	color: purple;
+	position: relative;
+	bottom: 290px;
+}
+p {}
+.Descrbox1, .Descrbox2, .Descrbox3 p {
+	font-family: outline-style: solid;
+	font-size: 15px;
+	padding-left: 400px;
+	position: relative;
+	bottom: 290px;
+}
+.dropdown-item{
+	color: 	#00FFFF!important;
+	.nav-link{
+	color: 	#00FFFF!important;
+}
+.navbar-brand{
+	color: 	#00FFFF!important;
