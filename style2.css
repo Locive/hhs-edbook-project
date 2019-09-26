@@ -12,17 +12,19 @@ h1, h2, h3 {
 	text-shadow: 1px 1px 1px #4e021b;
 	font-family: nasalization;
 	color: purple;
-	position: relative;
-	bottom: 290px;
 }
-p {}
-.Descrbox1, .Descrbox2, .Descrbox3 p {
+.Descrbox1, .Descrbox2, .Descrbox3 {
 	font-family: outline-style: solid;
 	font-size: 15px;
-	padding-left: 400px;
-	position: relative;
-	bottom: 290px;
-}
+	padding-left: 500px;
+	}
+	.DBOX {
+			font-family: outline-style: solid;
+	font-size: 15px;
+	padding-left: 500px;
+	}
+.Descrbox1-, .Descrbox2-, .Descrbox3- {
+
 .dropdown-item{
 	color: 	#00FFFF!important;
 	.nav-link{
