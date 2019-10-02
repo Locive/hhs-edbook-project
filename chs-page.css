@@ -34,6 +34,9 @@ url("img/naturecoast-promo.jpg");
 	text-align: center;
 	padding-top: 40px;
 }
+.col-sm1, .col-sm2, .col-sm3 {
+	width: 370px;
+}
 .footer{
 	height: 10vh;
 	background-color: #242322;
