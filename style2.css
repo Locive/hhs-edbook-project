@@ -22,6 +22,7 @@ body {
 	padding-left: 500px;
 	padding-right: 200px;
 	color: #ffff66;
+	padding-bottom: 10px;
 	}
 	.DBOX {
 	font-family: outline-style: solid;
@@ -29,6 +30,7 @@ body {
 	padding-left: 500px;
 	}
 .Descrbox1-, .Descrbox2-, .Descrbox3- {
+}
 
 .dropdown-item{
 	color: 	#00FFFF!important;
