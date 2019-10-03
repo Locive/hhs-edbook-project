@@ -13,6 +13,9 @@ h1, h2, h3 {
 	font-family: nasalization;
 	color: purple;
 }
+body {
+  background-color: #3b1261;
+}
 .edit {
 	font-family: outline-style: solid;
 	font-size: 15px;
