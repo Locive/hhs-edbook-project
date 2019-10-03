@@ -13,15 +13,20 @@ h1, h2, h3 {
 	font-family: nasalization;
 	color: purple;
 }
+.h1-3 {
+	padding-bottom: 300px;
+}
 body {
   background-color: #3b1261;
+}
+p {
+	color: #ffff66;
 }
 .edit {
 	font-family: outline-style: solid;
 	font-size: 15px;
 	padding-left: 500px;
 	padding-right: 200px;
-	color: #ffff66;
 	padding-bottom: 10px;
 	}
 	.DBOX {
