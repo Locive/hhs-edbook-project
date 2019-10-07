@@ -1,5 +1,5 @@
 function saveInsertedImage(){
-	var editIMGElem = document.getElementById("insertedImage");
+	var editIMGElem = document.getElementById("uploadfile");
 	var userVersion = editIMGElem.innerHTML;
 
 	localStorage.userEdits = userVersion;
