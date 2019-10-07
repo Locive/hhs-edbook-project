@@ -1,5 +1,9 @@
 <?php
 file_uploads=On
+
+
+
+
 header('Content-Type: text/plain; charset=utf-8');
 
 try {
