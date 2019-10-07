@@ -1,4 +1,4 @@
 function getImage() {
 if(localStorage.userEdits!=null)
-document.getElementById("uploadfile").innerHTML = localStorage.userEdits;
+document.getElementById("fileToUpload").innerHTML = localStorage.userEdits;
 }
