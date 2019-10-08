@@ -15,8 +15,9 @@ grid-column: purple;
 }
 div {
 column-count: 3;
-column-rule-width: 1px;
 }
-column-style {
-	color:purple;
+div {
+  -webkit-column-width: 100px; /* Chrome, Safari, Opera */
+  -moz-column-width: 100px; /* Firefox */
+  column-width: 100px;
 }
