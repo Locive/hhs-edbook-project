@@ -13,6 +13,6 @@ padding-bottom: 205px;
 div{
 column-count: 2;
 column-rule-width: 400px;
-column-rule-color: purple;
+column-rule-color: #551A8B;
 column-width: 200px;
 }
