@@ -13,3 +13,7 @@ padding-bottom: 205px;
 border-style {
 grid-column: purple;
 }
+div {
+	column-count: 3;
+  column-rule-width: 1px;
+}
