@@ -11,5 +11,8 @@ padding-bottom: 205px;
 	align-content: 30px;
 }
 body {
-	background-color: purple;
+	background-color: #551A8B;
+	#grad {
+  background-image: linear-gradient(white, white);
+}
 }
