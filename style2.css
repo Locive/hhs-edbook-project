@@ -1,4 +1,8 @@
-.col-sm img{
+.col-sm {
+	height:0px;
+	column-width: 350px;
+}
+img{
 	padding-left: 80px;
 }
 h1, h2, h3 {
