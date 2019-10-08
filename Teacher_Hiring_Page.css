@@ -11,7 +11,8 @@ padding-bottom: 205px;
 	align-content: 30px;
 }
 div{
-column-count: 3;
+column-count: 2;
+column-rule-width: 400px;
+column-rule-color: purple;
 column-width: 200px;
-column-gap: 400px;
 }
