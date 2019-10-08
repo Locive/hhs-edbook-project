@@ -10,14 +10,6 @@ padding-bottom: 205px;
 .img {
 	align-content: 30px;
 }
-border-style {
-grid-column: purple;
-}
-div {
-column-count: 3;
-}
-div {
-  -webkit-column-width: 100px; /* Chrome, Safari, Opera */
-  -moz-column-width: 100px; /* Firefox */
-  column-width: 100px;
+background-color {
+	background-color: purple;
 }
