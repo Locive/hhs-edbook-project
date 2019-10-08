@@ -1,9 +1,8 @@
-.col-sm {
-	height:0px;
-	column-width: 350px;
-}
-img{
+.col-sm img{
+	padding-bottom: 180px
 	padding-left: 80px;
+	min-height: 200px;
+	max-height: 200px;
 }
 h1, h2, h3 {
 	text-align: right;
