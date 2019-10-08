@@ -1,7 +1,5 @@
 <?php
 file_uploads=On
-header('Content-Type: text/plain; charset=utf-8');
-<?php
    if(isset($_FILES['image'])){
       $errors= array();
       $file_name = $_FILES['image']['name'];
