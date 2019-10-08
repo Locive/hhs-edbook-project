@@ -1,11 +1,6 @@
 <?php
 file_uploads=On
-
-
-
-
 header('Content-Type: text/plain; charset=utf-8');
-
 try {
    
     // Undefined | Multiple Files | $_FILES Corruption Attack
