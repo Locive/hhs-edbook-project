@@ -10,11 +10,8 @@ padding-bottom: 205px;
 .img {
 	align-content: 30px;
 }
-body {
-	margin-left:100px;
-	margin-right:100px;
-	background-color: #551A8B;
-	#grad {
-  background-image: linear-gradient(white, white);
-}
+div{
+column-count: 3;
+column-width: 200px;
+column-gap: 400px;
 }
