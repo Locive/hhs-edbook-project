@@ -25,7 +25,7 @@ url("img/CHS_Pic.jpg");
 	text-transform: uppercase;
 	text-shadow: 0px 0px 7px black;
 }
-.promo p .col-sm2{
+.promo p, .col-sm2{
 	text-align: center;
 	color: white;
 	font-family: sans-serif;
