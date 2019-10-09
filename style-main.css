@@ -54,8 +54,9 @@ url("img/books.jpg");
 	text-align: center;
 	font-size: 17px;
 }
-.btn-dark{
+.btn-dark a{
 	background-color: gray!important;
+	text-decoration: none;
 	color: #242332!important;
 }
 .schools{
