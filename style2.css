@@ -22,6 +22,9 @@ body {
 p {
 	color: #ffff66!important;
 }
+.Pics {
+		height: 50vh;
+}
 .edit {
 	font-family: outline-style: solid;
 	font-size: 15px;

@@ -25,10 +25,14 @@ url("img/naturecoast-promo.jpg");
 	text-transform: uppercase;
 	text-shadow: 0px 0px 7px black;
 }
-.promo p{
+.promo p, .col-sm2{
+	width: 800px;
 	text-align: center;
 	color: white;
 	font-family: sans-serif;
+}
+.promo .col-sm2{
+padding-left: 250px;
 }
 .supplies{
 	text-align: center;
