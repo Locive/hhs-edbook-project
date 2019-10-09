@@ -40,6 +40,7 @@ padding-left: 250px;
 }
 .col-sm1, .col-sm2, .col-sm3 {
 	width: 370px;
+	color: black;
 }
 .footer{
 	height: 10vh;
