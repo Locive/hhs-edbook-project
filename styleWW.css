@@ -4,7 +4,11 @@
   	padding-bottom: 180px
   	padding-left: 80px;
   	height: 50vh;
+  	border-style: solid;
+  	border-width:30px;
+  	border-color: green;
 }
+.col-sm
 h1, h2, h3 {
 	text-align: right;
 	padding-right: 700px;
@@ -22,6 +26,9 @@ p {
 .Pics {
 	padding-left:30px;
 		height: 50vh;
+		  	border-style: solid;
+  	border-width:30px;
+  	border-color: green;
 }
 .edit {
 	font-family: outline-style: solid;
