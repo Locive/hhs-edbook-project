@@ -1,23 +1,27 @@
-.img1 img{
-	padding-left: 80px;
-	height: 300px;
-	width: 350px;
-	border-width: 50px;
-	border-color: cyan;
+.col-sm img{
+  float: left;
+  float: right;
+  	padding-bottom: 180px
+  	padding-left: 80px;
+  	height: 50vh;
 }
 h1, h2, h3 {
 	text-align: right;
 	padding-right: 700px;
 	padding-bottom: 20px;
-	text-shadow: 1px 1px 1px #4e021b;
+	text-shadow: 2px 2px 2px #001a00;
 	font-family: nasalization;
-	color: darkgreen;
+	color: darkgreen
 }
 body {
-  background-color: #002800;
+  background-color: #003300;
 }
 p {
-	color: #b2d0b2!important;
+	color:  #00e673!important;
+}
+.Pics {
+	padding-left:30px;
+		height: 50vh;
 }
 .edit {
 	font-family: outline-style: solid;
@@ -25,22 +29,20 @@ p {
 	padding-left: 500px;
 	padding-right: 200px;
 	padding-bottom: 10px;
-	color: #b2d0b2!important;
+	color:  #00e673!important;
 	}
 	.DBOX {
+		padding-top:100px;
 	font-family: outline-style: solid;
 	font-size: 15px;
 	padding-left: 500px;
 	padding-bottom: 300px;
-	color: #b2d0b2!important;
+	color:  #00e673!important;
 	}
-.Descrbox1-, .Descrbox2-, .Descrbox3- {
-}
-
 .dropdown-item{
-	color: 	#00FFFF!important;
+	color: 	black!important;
 	.nav-link{
-	color: 	#00FFFF!important;
+	color: 	black!important;
 }
 .navbar-brand{
 	color: 	#00FFFF!important;
