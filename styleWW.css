@@ -3,19 +3,21 @@
   float: right;
   	padding-bottom: 180px
   	padding-left: 80px;
-  	height: 50vh;
+  	height: 100vh;
   	border-style: solid;
   	border-width:30px;
   	border-color: green;
 }
-.col-sm
+.col-sm-topright{
+	padding-left:275px;
+}
 h1, h2, h3 {
 	text-align: right;
 	padding-right: 700px;
 	padding-bottom: 20px;
 	text-shadow: 2px 2px 2px #001a00;
 	font-family: nasalization;
-	color: darkgreen
+	color: darkgreen;
 }
 body {
   background-color: #003300;
@@ -25,10 +27,16 @@ p {
 }
 .Pics {
 	padding-left:30px;
-		height: 50vh;
-		  	border-style: solid;
+	height: 70vh;
+	border-style: solid;
   	border-width:30px;
   	border-color: green;
+}
+h1 {
+	padding-left:50px;
+	text-shadow: 2px 2px 2px #001a00;
+	font-family: nasalization;
+	color: darkgreen;
 }
 .edit {
 	font-family: outline-style: solid;
@@ -36,15 +44,18 @@ p {
 	padding-left: 500px;
 	padding-right: 200px;
 	padding-bottom: 10px;
+	font-family: sans-serif;
 	color:  #00e673!important;
 	}
 	.DBOX {
-		padding-top:100px;
+	padding-top:40px;
 	font-family: outline-style: solid;
 	font-size: 15px;
 	padding-left: 500px;
 	padding-bottom: 300px;
 	color:  #00e673!important;
+	font-family: nasalization;
+	color: darkgreen
 	}
 .dropdown-item{
 	color: 	black!important;
