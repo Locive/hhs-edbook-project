@@ -20,7 +20,7 @@ h1, h2, h3 {
 	padding-bottom: 20px;
 	text-shadow: 2px 2px 2px #001a00;
 	font-family: nasalization;
-	color: darkgreen;
+	color: 255, 00, 00;
 }
 body {
   background-color: #003300;
@@ -38,7 +38,7 @@ h1 {
 	padding-left:50px;
 	text-shadow: 2px 2px 2px #001a00;
 	font-family: nasalization;
-	color: darkgreen;
+	color:  255, 00, 00;
 }
 .edit {
 	font-family: outline-style: solid;
@@ -57,7 +57,7 @@ h1 {
 	padding-bottom: 300px;
 	color:  #00e673!important;
 	font-family: nasalization;
-	color: darkgreen
+	color: 255, 0, 0;
 	}
 .dropdown-item{
 	color: 	black!important;
