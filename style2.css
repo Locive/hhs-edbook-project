@@ -16,7 +16,9 @@ body {
   background-color: #3b1261;
 }
 p {
+padding-left:20px;
 	color: #ffff66!important;
+	padding-top:90px;
 }
 .Pics {
 	padding-left:30px;
