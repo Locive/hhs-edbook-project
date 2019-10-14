@@ -20,25 +20,25 @@ h1, h2, h3 {
 	padding-bottom: 20px;
 	text-shadow: 2px 2px 2px #001a00;
 	font-family: nasalization;
-	color: 255, 00, 00;
+	color: #dead56;
 }
 body {
-  background-color: #003300;
+  background-color: red;
 }
 p {
-	color:  #00e673!important;
+	color:  yellow!important;
 }
 .Pics {
 	height: 85vh;
 	border-style: solid;
   	border-width:75px;
-  	border-color: green;
+  	border-color: darkred;
 }
 h1 {
 	padding-left:50px;
 	text-shadow: 2px 2px 2px #001a00;
 	font-family: nasalization;
-	color:  255, 00, 00;
+	color: #dead56;
 }
 .edit {
 	font-family: outline-style: solid;
@@ -57,7 +57,7 @@ h1 {
 	padding-bottom: 300px;
 	color:  #00e673!important;
 	font-family: nasalization;
-	color: 255, 0, 0;
+	color: #dead56;
 	}
 .dropdown-item{
 	color: 	black!important;
