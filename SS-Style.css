@@ -5,14 +5,17 @@
   float: right;
   	padding-bottom: 180px
   	padding-left: 80px;
-  	height: 50vh;
+  	height: 20vh;
 }
-.col-sm-topright{
-	height
-	padding-left:330px;
+.col-sm-topright img{
+	height: 62.1vh;
+	width:770px;
+	padding-left:10px;
 }
 .col-sm-topleft img{
-	width:455px;
+		padding-left:10px;
+	height: 60vh;
+	width:450px;
 }
 h1, h2, h3 {
 	text-align: right;
