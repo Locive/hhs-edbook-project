@@ -26,7 +26,13 @@ body {
   background-color: #003300;
 }
 p {
+	padding-left:20px;
 	color:  #00e673!important;
+		padding-top:10px;
+			text-align: center;
+}
+p1{
+	text-align: left;
 }
 .Pics {
 	height: 85vh;
@@ -66,4 +72,15 @@ h1 {
 }
 .navbar-brand{
 	color: 	#00FFFF!important;
+}
+.footer{
+	height: 10vh;
+	background-color: #242322;
+	font-family: sans-serif;
+}
+.footer h3{
+	padding-top: 27px;
+	color: white;
+	text-align: center;
+	font-size: 17px;
 }
