@@ -23,7 +23,7 @@ column-width: 200px;
   [class="col-2"] {
     padding-right: 0;
     padding-left: 0;
-    background-color: #1c086e;
+        background-color: #1c086e;
     height:1000px;
     color: white;
   }
