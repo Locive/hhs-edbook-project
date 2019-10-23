@@ -15,3 +15,16 @@ column-rule-width: 400px;
 column-rule-color: #551A8B;
 column-width: 200px;
 }
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+  .col,
+  [class="col-2"] {
+    padding-right: 0;
+    padding-left: 0;
+    background-color: #1c086e;
+    height:1000px;
+    color: white;
+  }
+}
