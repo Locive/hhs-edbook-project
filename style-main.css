@@ -37,6 +37,7 @@ url("img/books.jpg");
 	color: 	black!important;
 }
 .navbar-brand-help{
+	text-decoration: none;
 	color: 	black!important;
 	font-size: 15px;
 }
