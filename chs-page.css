@@ -53,9 +53,16 @@ padding-left: 250px;
 	text-align: center;
 	font-size: 17px;
 }
-.navbar-brand img{
-	height: 25px;
-	width: 30px;
+.nav-link{
+	color: 	black!important;
+}
+.navbar-brand{
+	color: 	black!important;
+}
+.navbar-brand-help{
+	text-decoration: none;
+	color: 	black!important;
+	font-size: 15px;
 }
 .button-one{
 }
