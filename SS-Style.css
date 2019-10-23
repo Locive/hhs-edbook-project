@@ -73,8 +73,16 @@ h1 {
 	.nav-link{
 	color: 	black!important;
 }
+.nav-link{
+	color: 	black!important;
+}
 .navbar-brand{
-	color: 	#00FFFF!important;
+	color: 	black!important;
+}
+.navbar-brand-help{
+	text-decoration: none;
+	color: 	black!important;
+	font-size: 15px;
 }
 .footer{
 	height: 10vh;

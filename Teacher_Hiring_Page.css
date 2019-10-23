@@ -28,3 +28,14 @@ column-width: 200px;
     color: white;
   }
 }
+.nav-link{
+  color:  black!important;
+}
+.navbar-brand{
+  color:  black!important;
+}
+.navbar-brand-help{
+  text-decoration: none;
+  color:  black!important;
+  font-size: 15px;
+}
