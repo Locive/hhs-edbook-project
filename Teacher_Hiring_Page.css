@@ -39,3 +39,14 @@ column-width: 200px;
   color:  black!important;
   font-size: 15px;
 }
+.footer{
+  height: 10vh;
+  background-color: #242322;
+  font-family: sans-serif;
+}
+.footer h3{
+  padding-top: 27px;
+  color: white;
+  text-align: center;
+  font-size: 17px;
+}
