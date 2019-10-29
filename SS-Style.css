@@ -5,14 +5,17 @@
   float: right;
   	padding-bottom: 180px
   	padding-left: 80px;
-  	height: 50vh;
+  	height: 20vh;
 }
-.col-sm-topright{
-	height
-	padding-left:330px;
+.col-sm-topright img{
+	height: 62.1vh;
+	width:770px;
+	padding-left:10px;
 }
 .col-sm-topleft img{
-	width:455px;
+		padding-left:10px;
+	height: 60vh;
+	width:450px;
 }
 h1, h2, h3 {
 	text-align: right;
@@ -26,7 +29,13 @@ body {
   background-color: red;
 }
 p {
+	padding-left:20px;
 	color:  yellow!important;
+		padding-top:10px;
+			text-align: center;
+}
+p1{
+	text-align: left;
 }
 .Pics {
 	height: 85vh;
@@ -64,6 +73,26 @@ h1 {
 	.nav-link{
 	color: 	black!important;
 }
+.nav-link{
+	color: 	black!important;
+}
 .navbar-brand{
-	color: 	#00FFFF!important;
+	color: 	black!important;
+}
+.navbar-brand-help{
+	text-decoration: none;
+	color: 	black!important;
+	font-size: 15px;
+}
+.footer{
+	height: 10vh;
+	background-color: #242322;
+	font-family: sans-serif;
+}
+.footer h3{
+	padding-top: 27px;
+	color: white;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 17px;
 }

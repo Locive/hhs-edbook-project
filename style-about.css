@@ -30,6 +30,11 @@ background-size: contain;
 .navbar-brand{
 	color: 	black!important;
 }
+.navbar-brand-help{
+	text-decoration: none;
+	color: 	black!important;
+	font-size: 15px;
+}
 .dropdown-item{
 	color: 	black!important;
 }
