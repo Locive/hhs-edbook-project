@@ -13,7 +13,7 @@ $('#multi_file_upload').change(function(e) {
         if (check_multifile_logo($("#" + file_id).prop("files")[i]['name'])) {
             $.ajax({
                 //url         :   site_url + "inc/upload_image.php?width=96&height=60&show_small=1",
-                url: site_url + "inc/upload_contact_info.php",
+                url: site_url + "inc/ini.php",
                 cache: false,
                 contentType: false,
                 processData: false,
