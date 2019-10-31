@@ -1,4 +1,4 @@
 function changeImage()
 {
-  document.getElementById('file').innerHTML= '<file" />'; 
+  document.getElementById('fileToUpload').innerHTML= '<fileToUpload" />'; 
 }
