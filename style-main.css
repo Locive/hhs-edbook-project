@@ -67,6 +67,9 @@ url("img/books.jpg");
 	background-color: white;
 	height: 50vh;
 }
+.schools p{
+	color: black;
+}
 .schools h3{
 	padding-bottom: 50px;
 }
