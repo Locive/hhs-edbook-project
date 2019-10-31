@@ -20,9 +20,11 @@ $('#multi_file_upload').change(function(e) {
                 async: false,
                 data: form_data,
                 type: 'post',
-                success: function(data) {
-                    // display image
-                }
+                success: function addTheImage() {
+    var img = document.createElement('img');
+    img.src = "http://....";
+    document.body.appendChild(img);
+}
             });
         } else {
             $("#" + html_div).html('');
