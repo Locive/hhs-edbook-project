@@ -5,6 +5,11 @@
 
                 reader.onload = imageIsLoaded;
                 reader.readAsDataURL(this.files[0]);
+
+                var image = document.getElementById("myImg")
+                var elem = editElem.innerHTML;
+
+                localStorage.userEdits = elem;
             }
         });
     });
